@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "amir"
+title:  "Amir"
 date:   2019-12-20 14:49:42 +0100
 categories: jekyll update
 ---
