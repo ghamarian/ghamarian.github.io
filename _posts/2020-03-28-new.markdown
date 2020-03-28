@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "some math"
+mathjax: true
 date:   2020-03-28 14:40:42 +0100
 categories: jekyll update
 ---
