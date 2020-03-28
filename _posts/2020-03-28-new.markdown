@@ -22,6 +22,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+amir
 $$p(\theta, \phi | y) \propto g(\theta, \phi)$$
 $p(\theta, \phi | y) \propto g(\theta, \phi)$
 
