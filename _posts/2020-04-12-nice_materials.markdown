@@ -17,7 +17,7 @@ categories: jekyll update
 
 [good R for datascience resource] [good-R-for-datascience-resource] 
 
-amir
+Some math check.
 $$p(\theta, \phi | y) \propto g(\theta, \phi)$$
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
