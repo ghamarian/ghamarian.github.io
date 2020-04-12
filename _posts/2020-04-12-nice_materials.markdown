@@ -5,17 +5,17 @@ mathjax: true
 date:   2020-04-12 14:40:42 +0100
 categories: jekyll update
 ---
-[feature engineering] [feature-engineering]
+[Feature engineering] [feature-engineering]
 
-[inference book] [inference-book] 
+[Inference book] [inference-book] 
 
-[data visualization] [data-visualization] 
+[Data visualization] [data-visualization] 
 
-[productivity] [productivity-link] 
+[Productivity] [productivity-link] 
 
-[machine learning with R] [machine-learning-with-R] 
+[Machine learning with R] [machine-learning-with-R] 
 
-[good R for datascience resource] [good-R-for-datascience-resource] 
+[Good R for datascience resource] [good-R-for-datascience-resource] 
 
 Some math check.
 $$p(\theta, \phi | y) \propto g(\theta, \phi)$$
