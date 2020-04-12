@@ -2,7 +2,7 @@
 layout: post
 title:  "Good datascience free books"
 mathjax: true
-date:   2020-03-28 14:40:42 +0100
+date:   2020-04-12 14:40:42 +0100
 categories: jekyll update
 ---
 [feature engineering] (http://www.feat.engineering/)
