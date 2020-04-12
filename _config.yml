@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Amir's notes 
-email: $$\begin{equation}\begin{aligned}(\lambda x. x@gmail.com) \\ amirhossein.gh\end{aligned}\end{equation}$$
+
+email: $$\begin{equation}(\lambda x. x@gmail.com) \\ amirhossein.gh\end{equation}$$
 description: >- # this means to ignore newlines until "baseurl:"
         These are the things I find interesting here and there.
 baseurl: "" # the subpath of your site, e.g. /blog
