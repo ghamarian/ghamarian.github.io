@@ -27,9 +27,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 [feature-engineering]: http://www.feat.engineering/
-[inference-book]: (https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-[data-visualization]: (https://serialmentor.com/dataviz/)
-[productivity-link]: (https://basecamp.com/shapeup)
-[machine-learning-with-R]: (https://bradleyboehmke.github.io/HOML/)
-[good-R-for-datascience-resource]: (https://r4ds.had.co.nz/)
+[inference-book]: https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+[data-visualization]: https://serialmentor.com/dataviz/
+[productivity-link]: https://basecamp.com/shapeup
+[machine-learning-with-R]: https://bradleyboehmke.github.io/HOML/
+[good-R-for-datascience-resource]: https://r4ds.had.co.nz/
 
