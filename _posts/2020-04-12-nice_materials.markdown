@@ -17,6 +17,8 @@ categories: jekyll update
 
 [Good R for datascience resource] [good-R-for-datascience-resource] 
 
+[Time series] [Time-series]
+
 Some math check.
 $$p(\theta, \phi | y) \propto g(\theta, \phi)$$
 
@@ -32,4 +34,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [productivity-link]: https://basecamp.com/shapeup
 [machine-learning-with-R]: https://bradleyboehmke.github.io/HOML/
 [good-R-for-datascience-resource]: https://r4ds.had.co.nz/
-
+[Time-series]: https://otexts.com/fpp2/
