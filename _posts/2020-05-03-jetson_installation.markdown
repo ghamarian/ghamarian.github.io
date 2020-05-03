@@ -5,13 +5,8 @@ title:  "Jetson Tx2, Torch and Opencv"
 mathjax: true
 date:   2020-05-03 10:11:31 +0100
 
-categories: jekyll update
+categories: Administration
 ---
-[Feature engineering] [feature-engineering]
-
-```
-for i in *; do echo $i; done
-```
 For installing torch in nvidia jetson Tx2, you can basically follow [Nvidia forum instructions] [Nvidia-forum-instruction]. I installed version 1.5 and the torch version was winbuild/v0.6.0.
 
 Opencv installation was the trickiest part, things good to know:
@@ -27,7 +22,6 @@ Opencv installation was the trickiest part, things good to know:
 `ln -s /usr/local/lib/python3.6/site-packages/cv2/python-3.6/cv2.cpython-36m-aarch64-linux-gnu.so  cv2.so`
 
 
-[feature-engineering]: http://www.feat.engineering/
 [Nvidia-forum-instruction]: https://forums.developer.nvidia.com/t/pytorch-for-jetson-nano-version-1-5-0-now-available/72048
 [Opencv-installation]: https://www.jetsonhacks.com/2019/11/22/opencv-4-cuda-on-jetson-nano/
-[Opencv-installation]: https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.1.1_Jetson.sh
+[opencv-script]: https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.1.1_Jetson.sh
