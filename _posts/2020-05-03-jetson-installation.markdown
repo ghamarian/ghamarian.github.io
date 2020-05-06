@@ -2,7 +2,6 @@
 ---
 layout: post
 title:  "Jetson Tx2, Torch and Opencv"
-mathjax: true
 date:   2020-05-03 10:11:31 +0100
 
 categories: Administration
