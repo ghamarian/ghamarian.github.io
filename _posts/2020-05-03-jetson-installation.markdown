@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title:  "Jetson Tx2, Torch and Opencv"
 date:   2020-05-03 10:11:31 +0100
-
 categories: Administration
 ---
+
 For installing torch in nvidia jetson Tx2, you can basically follow [Nvidia forum instructions] [Nvidia-forum-instruction]. I installed version 1.5 and the torch version was winbuild/v0.6.0.
 
 Opencv installation was the trickiest part, things good to know:
